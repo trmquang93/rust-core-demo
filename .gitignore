@@ -1,0 +1,15 @@
+# Build outputs
+build/
+target/
+android/.gradle/
+android/.kotlin/
+android/**/build/
+android/local.properties
+*.so
+*.a
+*.xcframework
+DerivedData/
+xcuserdata/
+.DS_Store
+# QA evidence
+evidence/
